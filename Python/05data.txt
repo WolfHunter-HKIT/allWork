@@ -1,0 +1,3 @@
+['Pirma eilute\n', 'Antra eilute\n', 'Trecia eilute\n']Pirma eilute
+Antra eilute
+Trecia eilute

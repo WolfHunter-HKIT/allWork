@@ -1,0 +1,3 @@
+Pirmas kartas su byla
+a = 5
+ąčęėįšųūž
